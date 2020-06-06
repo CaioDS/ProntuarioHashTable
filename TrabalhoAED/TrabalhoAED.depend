@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591411829 source:c:\users\caiod\onedrive\Área de trabalho\aed2\trabalhoaed\main.cpp
+	<iostream>
+	<time.h>
+	<string.h>
+
